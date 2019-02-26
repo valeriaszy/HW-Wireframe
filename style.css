@@ -1,0 +1,99 @@
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #777;
+    background-color: gray
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  nav{
+      padding: 20px;
+      margin-bottom: 20px;
+      color: #777;
+      background: #ebebeb;
+
+  }
+
+  section {
+	width: 495px;
+	height: 300px;
+	background: #ebebeb;
+	padding-top: 30px;
+	float: left;
+	margin-bottom: 20px;
+	color: #777;
+  }
+  
+  #left {
+    float: left;
+    width: 45%;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  #middle {
+    float: left;
+    width: 33.3%;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  #right {
+    float: right;
+    width: 50%;
+    height: 200px;
+    padding:20px;
+    overflow: auto;
+    clear: both;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  #full {
+    float: right;
+    width: 40%;
+    overflow: auto;
+    color: #777;
+    background: #ebebeb;  
+
+  }
+  
+  #division {
+    float: left;  
+    width: 50%;
+    height: 200px;
+    padding:60px;
+    overflow: auto;
+    clear: both;
+    color: #777;
+    background: #ebebeb;
+  }
+  
+  aside {
+    float: left;
+    width: 33%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
+    text-decoration-color: #777;
+    background: #ebebeb;
+    border: 1px solid #eee;
+  }
+  
+  footer {
+    padding: 20px;
+    clear: both;
+    background: #ebebeb;
+  }
